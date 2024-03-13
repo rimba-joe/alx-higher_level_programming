@@ -8,3 +8,5 @@ write a python script that prints a sentence
 write a python script to print integer stored in a variable
 4. print float-
 write a python script to print float stored in a variable
+5. print string-
+write a python script to print string stored in a variable
