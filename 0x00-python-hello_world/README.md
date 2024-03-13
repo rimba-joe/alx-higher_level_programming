@@ -14,3 +14,5 @@ write a python script to print string stored in a variable
 write a python script to print string from two variables
 7. copy-cut-paste
 write a python string to split a string from a variable
+8. create a new sentence
+write a python script to extract words to form a sentence from a string variable
