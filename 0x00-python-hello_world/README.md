@@ -1,3 +1,4 @@
+
 0. run python file-
 write a shell script that runs a python script
 1. run inline-
@@ -18,3 +19,4 @@ write a python string to split a string from a variable
 write a python script to extract words to form a sentence from a string variable
 9. easter egg-
 write a python script that prints a poem
+10. linked list cycle
