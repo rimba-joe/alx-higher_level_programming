@@ -6,3 +6,5 @@ write a shell script that runs python code
 write a python script that prints a sentence
 3. print integer-
 write a python script to print integer stored in a variable
+4. print float-
+write a python script to print float stored in a variable
