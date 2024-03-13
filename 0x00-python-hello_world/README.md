@@ -10,9 +10,11 @@ write a python script to print integer stored in a variable
 write a python script to print float stored in a variable
 5. print string-
 write a python script to print string stored in a variable
-6. play with strings
+6. play with strings -
 write a python script to print string from two variables
-7. copy-cut-paste
+7. copy-cut-paste -
 write a python string to split a string from a variable
 8. create a new sentence
 write a python script to extract words to form a sentence from a string variable
+9. easter egg-
+write a python script that prints a poem
